@@ -6,7 +6,7 @@ console.log(numbers);
 console.log(doubleNumbers);
 
 const students = [
-  { name: "Maria", score: 55 },
+  { name: "Kornelia", score: 55 },
   { name: "Kamil", score: 78 },
   { name: "Martyna", score: 86 },
   { name: "Konrad", score: 65 },
