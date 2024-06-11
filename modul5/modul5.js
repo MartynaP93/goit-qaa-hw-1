@@ -13,5 +13,4 @@ const students = [
 ];
 
 const names = students.map((student) => student.name);
-
 console.log(names);
