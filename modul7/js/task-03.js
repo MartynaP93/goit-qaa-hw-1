@@ -15,6 +15,8 @@ const images = [
 
 const gallery = document.querySelector("ul.gallery");
 
+gallery.style.backgroundColor = 'blue'
+
 const imagesHTML = images.map(image =>
   `<li>
     <img src="${image.url}" alt = "${image.alt}">
