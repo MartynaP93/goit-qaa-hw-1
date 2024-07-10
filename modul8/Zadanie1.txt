@@ -1,0 +1,4 @@
+Zadanie 1
+JSON to format tekstowy do przechowywania i przekazywania danych strukturalnych w formie tekstowej. W tym formacie dane będą przesyłane i wysyłane na serwer, przechowywane w pamięci lokalnej.
+JSON nie jest obiektem, ale jego reprezentacją w postaci ciągu. Składnia jest podobna do obiektu, z wyjątkiem tego, że klucze są zawsze ciągami w podwójnych cudzysłowach. Wartościami mogą być typu string, number, object, array, boolean i null.
+Wierszami: 2, 5 - string, 3, 4 - number, 6 - boolean, 7 - array6 i 8 - object. 
